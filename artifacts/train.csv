@@ -1,0 +1,1601 @@
+Patient ID,Age,Gender,Tumor Type,Tumor Grade,Tumor Location,Treatment,Treatment Outcome,Time to Recurrence (months),Recurrence Site,Survival Time (months)
+969,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+241,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+820,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+693,66,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Partial response,14.0,Temporal lobe,24
+421,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1086,53,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Progressive disease,14.0,Parietal lobe,32
+1999,62,Male,Astrocytoma,III,Frontal lobe,Radiation,Stable disease,22.0,Frontal lobe,28
+366,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1023,61,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1241,49,Female,Astrocytoma,II,Occipital lobe,Radiation,Partial response,18.0,Occipital lobe,44
+589,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+737,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+1762,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+942,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+72,48,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,48
+1408,56,Female,Astrocytoma,III,Frontal lobe,Radiation,Stable disease,24.0,Frontal lobe,32
+260,64,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,72
+52,48,Male,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+199,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1789,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+651,55,Male,Astrocytoma,III,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+333,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+1360,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,12.0,Parietal lobe,32
+594,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1392,51,Female,Meningioma,I,Temporal lobe,Radiation,Complete response,,,36
+1801,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+1315,49,Female,Meningioma,I,Temporal lobe,Radiation,Progressive disease,20.0,Temporal lobe,44
+1112,55,Female,Meningioma,I,Frontal lobe,Surgery,Progressive disease,16.0,Frontal lobe,28
+1007,60,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1327,64,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,16.0,Temporal lobe,44
+427,55,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1559,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1294,48,Male,Astrocytoma,II,Occipital lobe,Chemotherapy,Stable disease,14.0,Occipital lobe,44
+591,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1958,45,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,20.0,Temporal lobe,44
+1977,61,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1133,54,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,16.0,Frontal lobe,28
+986,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+399,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1512,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+437,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+193,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1436,56,Female,Astrocytoma,III,Frontal lobe,Radiation,Stable disease,22.0,Frontal lobe,28
+615,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Stable disease,18.0,Frontal lobe,36
+1494,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+577,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+987,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1433,58,Male,Astrocytoma,II,Occipital lobe,Chemotherapy,Stable disease,20.0,Occipital lobe,32
+707,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Partial response,20.0,Occipital lobe,48
+1259,55,Female,Meningioma,I,Frontal lobe,Radiation,Progressive disease,20.0,Frontal lobe,28
+142,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1358,53,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,18.0,Occipital lobe,44
+3,60,Male,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Frontal lobe,22
+1222,61,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Parietal lobe,32
+1870,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1623,51,Male,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Partial response,18.0,Occipital lobe,30
+340,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1770,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1537,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+484,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+266,54,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+377,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+742,50,Female,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,42
+1014,64,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,18.0,Parietal lobe,32
+440,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+272,49,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,48
+185,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+940,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+245,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+932,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+446,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+597,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+818,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1273,63,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Stable disease,20.0,Temporal lobe,28
+1677,52,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,42
+487,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+681,50,Male,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,24
+416,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+274,60,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,8.0,Temporal lobe,12
+1472,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1830,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1455,57,Male,Meningioma,I,Occipital lobe,Radiation,Progressive disease,12.0,Occipital lobe,32
+251,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+414,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1386,61,Female,Meningioma,I,Parietal lobe,Chemotherapy,Progressive disease,14.0,Parietal lobe,44
+1308,52,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,18.0,Occipital lobe,44
+716,54,Female,Astrocytoma,III,Temporal lobe,Surgery + Chemotherapy,Progressive disease,14.0,Temporal lobe,24
+311,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+927,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+382,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1566,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Progressive disease,12.0,Occipital lobe,18
+426,49,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,,,36
+1875,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+533,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+753,51,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,18.0,Temporal lobe,24
+766,48,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,42
+1357,62,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+409,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1615,58,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,36
+695,63,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1739,50,Male,Glioblastoma,III,Temporal lobe,Surgery + Radiation,Complete response,,,36
+549,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+937,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1390,56,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,32
+1608,66,Female,Astrocytoma,II,Frontal lobe,Surgery + Radiation,Partial response,12.0,Frontal lobe,24
+1940,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+1482,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+183,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+1941,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1161,64,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Stable disease,14.0,Frontal lobe,26
+171,68,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,30
+293,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+562,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1457,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1877,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1652,65,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+850,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+273,55,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+1550,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1035,61,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1744,61,Female,Astrocytoma,II,Frontal lobe,Surgery + Chemotherapy,Progressive disease,14.0,Frontal lobe,42
+372,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1670,54,Female,Astrocytoma,III,Temporal lobe,Surgery + Chemotherapy,Progressive disease,14.0,Temporal lobe,24
+722,66,Female,Astrocytoma,II,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+734,48,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Partial response,14.0,Parietal lobe,36
+778,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,14.0,Frontal lobe,42
+519,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+335,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+846,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+1252,57,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,32
+1053,54,Female,Glioblastoma,IV,Frontal lobe,Surgery,Complete response,16.0,Frontal lobe,28
+1924,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+16,52,Male,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Stable disease,18.0,Parietal lobe,36
+708,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+901,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1980,57,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1573,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+904,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+466,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1978,49,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,44
+200,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1207,58,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1056,51,Male,Glioblastoma,IV,Temporal lobe,Surgery,Complete response,,,36
+1132,67,Male,Meningioma,I,Temporal lobe,Chemotherapy,Progressive disease,14.0,Temporal lobe,44
+1380,62,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,14.0,Temporal lobe,32
+999,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+728,53,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,30
+1772,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1910,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1822,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+568,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+44,70,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,36
+275,53,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,72
+1097,66,Male,Meningioma,I,Frontal lobe,Radiation,Stable disease,12.0,Frontal lobe,28
+102,54,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1232,50,Male,Meningioma,I,Frontal lobe,Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+1722,56,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Occipital lobe,30
+1833,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+108,58,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,24
+1618,54,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Partial response,16.0,Occipital lobe,30
+498,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1981,48,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Partial response,18.0,Occipital lobe,44
+882,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+757,56,Male,Astrocytoma,III,Temporal lobe,Surgery + Chemotherapy,Complete response,,,30
+620,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1107,48,Female,Astrocytoma,II,Occipital lobe,Chemotherapy,Partial response,18.0,Occipital lobe,44
+1936,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+810,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+1038,63,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,44
+73,54,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+1284,57,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1272,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,18.0,Parietal lobe,44
+1335,63,Female,Astrocytoma,III,Temporal lobe,Surgery + Chemotherapy,Partial response,18.0,Temporal lobe,44
+1459,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+482,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1069,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Progressive disease,12.0,Frontal lobe,32
+507,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1238,52,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,44
+1862,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1990,53,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,32
+1477,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1867,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1456,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+312,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+963,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+406,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1331,58,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Temporal lobe,36
+1650,56,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+310,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+227,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1858,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+711,65,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,42
+1944,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+1384,53,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Partial response,12.0,Temporal lobe,32
+1786,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+149,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1555,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,36
+1957,57,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+926,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+943,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+837,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+576,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+558,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1236,66,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,32
+1361,65,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,24.0,Temporal lobe,38
+1348,56,Male,Meningioma,I,Occipital lobe,Radiation,Stable disease,20.0,Occipital lobe,32
+1162,49,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Parietal lobe,32
+1443,48,Male,Meningioma,I,Occipital lobe,Chemotherapy,Progressive disease,14.0,Occipital lobe,44
+287,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1605,55,Male,Astrocytoma,III,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+1058,55,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,16.0,Parietal lobe,32
+599,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+933,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+1462,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+1638,58,Female,Astrocytoma,II,Frontal lobe,Surgery + Chemotherapy,Partial response,16.0,Frontal lobe,42
+1588,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1041,64,Male,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,14.0,Frontal lobe,26
+1231,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,14.0,Occipital lobe,44
+807,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+905,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+1680,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,14.0,Frontal lobe,24
+1205,64,Female,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,22.0,Frontal lobe,28
+768,56,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Occipital lobe,30
+610,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,16.0,Parietal lobe,24
+1993,48,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+1565,55,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Complete response,,,48
+1423,51,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,26.0,Temporal lobe,44
+1011,59,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,38
+494,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1321,54,Female,Meningioma,I,Frontal lobe,Chemotherapy,Complete response,,,38
+278,54,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1847,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+359,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1111,50,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,14.0,Occipital lobe,44
+237,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+552,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1868,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1813,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+209,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+1387,59,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,36
+1561,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Stable disease,14.0,Frontal lobe,30
+59,49,Female,Glioblastoma,IV,Parietal lobe,Surgery,Partial response,16.0,Parietal lobe,30
+632,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1962,47,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,44
+1860,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+1817,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+364,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+506,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+1166,53,Female,Glioblastoma,IV,Parietal lobe,Chemotherapy,Progressive disease,14.0,Parietal lobe,32
+1122,49,Female,Meningioma,I,Parietal lobe,Chemotherapy,Progressive disease,18.0,Parietal lobe,32
+1630,61,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Partial response,20.0,Frontal lobe,42
+1217,62,Female,Meningioma,I,Frontal lobe,Radiation,Stable disease,12.0,Frontal lobe,28
+1152,55,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,16.0,Frontal lobe,28
+1125,62,Male,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,22.0,Frontal lobe,28
+1595,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,36
+119,62,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,60
+1250,58,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Parietal lobe,32
+1994,57,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,38
+523,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+514,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+82,67,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+916,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1019,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+381,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+1030,59,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1689,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,24
+85,59,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1678,63,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Partial response,16.0,Occipital lobe,30
+330,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+7,55,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,36
+746,46,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Stable disease,20.0,Parietal lobe,42
+1554,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+915,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+874,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+452,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+491,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1481,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+288,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+949,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+1986,55,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,16.0,Frontal lobe,28
+1369,54,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,44
+1147,48,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Partial response,18.0,Occipital lobe,44
+706,55,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,18.0,Parietal lobe,42
+1727,46,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,36
+1702,54,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1629,46,Male,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,24
+1600,46,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Frontal lobe,42
+1539,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1406,51,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,44
+1651,50,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,16.0,Temporal lobe,36
+328,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+443,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+775,54,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,20.0,Parietal lobe,24
+1088,47,Male,Astrocytoma,II,Temporal lobe,Surgery,Stable disease,18.0,Temporal lobe,44
+1221,55,Female,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1636,65,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Stable disease,18.0,Occipital lobe,30
+178,54,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1323,63,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Stable disease,20.0,Temporal lobe,28
+705,48,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Progressive disease,16.0,Temporal lobe,36
+87,65,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1884,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+1948,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+458,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1829,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+55,51,Female,Astrocytoma,III,Temporal lobe,Surgery,Partial response,16.0,Temporal lobe,30
+1502,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+644,53,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Partial response,16.0,Occipital lobe,30
+678,59,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+222,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+114,48,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,10.0,Frontal lobe,18
+983,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1229,54,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Progressive disease,12.0,Frontal lobe,32
+1000,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+175,53,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,72
+782,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Partial response,16.0,Frontal lobe,42
+590,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1560,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,20.0,Parietal lobe,42
+19,55,Female,Astrocytoma,II,Frontal lobe,Surgery,Complete response,,,60
+424,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1344,48,Male,Astrocytoma,II,Occipital lobe,Chemotherapy,Stable disease,14.0,Occipital lobe,44
+286,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1584,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+429,46,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1510,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+1319,55,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,44
+670,56,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Temporal lobe,24
+32,43,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Stable disease,36.0,Frontal lobe,48
+941,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+723,52,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,42
+995,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+215,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+814,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+327,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+561,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1113,58,Male,Glioblastoma,IV,Parietal lobe,Chemotherapy,Complete response,,,38
+701,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,14.0,Temporal lobe,30
+1579,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1190,59,Female,Meningioma,I,Parietal lobe,Radiation,Complete response,,,38
+342,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+630,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+148,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1310,59,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,12.0,Parietal lobe,32
+361,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+84,54,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+49,57,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,8.0,Parietal lobe,14
+469,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+156,56,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+773,46,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,36
+1240,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+1201,60,Female,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Stable disease,14.0,Frontal lobe,26
+1403,61,Male,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,18.0,Frontal lobe,28
+1203,47,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1631,54,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,48
+501,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1765,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+180,47,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,22.0,Temporal lobe,36
+1048,47,Male,Astrocytoma,II,Temporal lobe,Radiation,Stable disease,18.0,Temporal lobe,44
+1756,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+951,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+1317,62,Female,Astrocytoma,II,Frontal lobe,Chemotherapy,Stable disease,16.0,Frontal lobe,32
+1620,48,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,42
+529,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+347,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1388,65,Female,Astrocytoma,III,Temporal lobe,Surgery + Chemotherapy,Stable disease,18.0,Temporal lobe,32
+1961,60,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1051,59,Female,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,,,38
+1973,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1442,64,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,24.0,Temporal lobe,38
+602,50,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,48
+1282,65,Male,Astrocytoma,II,Occipital lobe,Chemotherapy,Stable disease,14.0,Occipital lobe,44
+244,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1337,51,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,36
+1068,65,Male,Meningioma,I,Temporal lobe,Radiation,Stable disease,20.0,Temporal lobe,28
+1476,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+313,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+436,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1899,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+1329,53,Female,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Partial response,18.0,Frontal lobe,28
+309,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+431,67,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+661,58,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,36
+371,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+567,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+980,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+182,50,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,24
+1363,57,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,36
+622,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+819,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1193,58,Male,Glioblastoma,IV,Parietal lobe,Chemotherapy,Complete response,,,38
+953,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1422,55,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,,,32
+1841,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+923,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1074,46,Female,Astrocytoma,II,Temporal lobe,Radiation,Partial response,18.0,Temporal lobe,44
+297,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+967,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+462,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1303,53,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,38
+1177,66,Male,Meningioma,I,Frontal lobe,Radiation,Stable disease,12.0,Frontal lobe,28
+378,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+799,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,20.0,Parietal lobe,30
+1103,61,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,38
+106,56,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+127,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1996,49,Female,Meningioma,I,Parietal lobe,Radiation,Progressive disease,18.0,Parietal lobe,32
+839,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+356,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1617,61,Male,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,24
+683,53,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+813,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+1681,65,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,42
+210,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1493,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+141,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1975,63,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1340,62,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1798,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1575,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1182,56,Female,Glioblastoma,IV,Parietal lobe,Chemotherapy,Progressive disease,12.0,Parietal lobe,32
+1394,59,Female,Astrocytoma,II,Parietal lobe,Chemotherapy,Stable disease,22.0,Parietal lobe,28
+1816,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+712,53,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Parietal lobe,30
+1794,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+893,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+860,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+11,57,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,8.0,Parietal lobe,15
+1695,56,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+1428,62,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,32
+283,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+811,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1342,49,Male,Meningioma,I,Parietal lobe,Radiation,Stable disease,20.0,Parietal lobe,32
+292,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+755,52,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Partial response,14.0,Frontal lobe,36
+627,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+944,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+862,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+130,47,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,22.0,Temporal lobe,36
+1176,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+324,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1091,59,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,38
+844,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+964,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1865,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+866,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+922,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+696,56,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+216,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1781,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1262,48,Male,Meningioma,I,Occipital lobe,Chemotherapy,Progressive disease,14.0,Occipital lobe,44
+159,50,Female,Glioblastoma,IV,Parietal lobe,Surgery,Partial response,16.0,Parietal lobe,30
+1059,58,Male,Glioblastoma,IV,Occipital lobe,Radiation,Complete response,,,38
+989,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+842,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+635,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+517,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1429,50,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,18.0,Occipital lobe,38
+1748,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,42
+598,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+196,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1784,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+870,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+411,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+97,45,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1001,62,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,14.0,Frontal lobe,26
+1506,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+157,53,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,60
+420,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1803,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+478,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+1856,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+669,51,Male,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Partial response,18.0,Occipital lobe,30
+1418,54,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Frontal lobe,32
+1872,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1300,59,Male,Astrocytoma,II,Parietal lobe,Chemotherapy,Stable disease,14.0,Parietal lobe,32
+448,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+554,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+179,59,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+391,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+579,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1478,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1707,51,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,18.0,Temporal lobe,24
+1288,54,Male,Astrocytoma,II,Parietal lobe,Chemotherapy,Stable disease,14.0,Parietal lobe,32
+1645,60,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,48
+1024,49,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,44
+821,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1825,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+985,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+1339,66,Female,Meningioma,I,Temporal lobe,Radiation,Progressive disease,16.0,Temporal lobe,44
+665,59,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+143,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1517,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1430,56,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Parietal lobe,44
+865,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+422,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+637,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1407,49,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,28
+800,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1404,58,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,20.0,Frontal lobe,32
+616,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Occipital lobe,30
+295,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+924,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1269,55,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,44
+1903,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+89,62,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+42,52,Male,Meningioma,I,Occipital lobe,Surgery + Radiation,Progressive disease,18.0,Occipital lobe,30
+1802,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1934,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+132,50,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,24
+1002,49,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,18.0,Parietal lobe,32
+1158,63,Male,Astrocytoma,III,Temporal lobe,Surgery,Stable disease,14.0,Temporal lobe,44
+1095,57,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,20.0,Occipital lobe,38
+1855,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1345,58,Female,Meningioma,I,Frontal lobe,Surgery,Progressive disease,16.0,Frontal lobe,28
+1499,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+165,65,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+725,56,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,36
+291,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1209,66,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,20.0,Frontal lobe,26
+1589,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1897,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1642,59,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Partial response,18.0,Frontal lobe,42
+1362,49,Male,Meningioma,I,Occipital lobe,Chemotherapy,Progressive disease,14.0,Occipital lobe,44
+779,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,18.0,Parietal lobe,24
+840,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+349,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1945,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+572,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+918,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+977,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1914,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1469,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1592,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1318,56,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1845,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+137,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+459,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+376,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1343,61,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Temporal lobe,36
+334,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1160,57,Male,Glioblastoma,IV,Parietal lobe,Chemotherapy,Complete response,,,38
+1761,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1458,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+817,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1115,61,Male,Meningioma,I,Frontal lobe,Radiation,Stable disease,20.0,Frontal lobe,28
+1006,53,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,14.0,Parietal lobe,32
+1857,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1955,62,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,14.0,Frontal lobe,26
+1851,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+911,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+1930,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1126,53,Female,Glioblastoma,IV,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,32
+329,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1248,54,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,44
+319,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1690,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Stable disease,16.0,Occipital lobe,42
+1359,56,Female,Meningioma,I,Frontal lobe,Radiation,Progressive disease,20.0,Frontal lobe,28
+1733,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,18.0,Parietal lobe,24
+168,46,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+13,70,Female,Astrocytoma,II,Temporal lobe,Surgery,Complete response,,,72
+1927,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+172,49,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,48
+650,48,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Complete response,,,36
+1062,56,Female,Glioblastoma,IV,Parietal lobe,Radiation,Progressive disease,12.0,Parietal lobe,32
+261,47,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,8.0,Occipital lobe,14
+1367,61,Female,Astrocytoma,II,Frontal lobe,Chemotherapy,Stable disease,16.0,Frontal lobe,32
+1549,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+902,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+673,53,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,16.0,Occipital lobe,36
+259,50,Female,Glioblastoma,IV,Parietal lobe,Surgery,Partial response,16.0,Parietal lobe,30
+845,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+868,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1800,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+139,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+894,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+1838,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+550,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+320,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1527,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1806,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1178,55,Female,Astrocytoma,II,Parietal lobe,Chemotherapy,Progressive disease,16.0,Parietal lobe,32
+559,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+140,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1735,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Stable disease,12.0,Temporal lobe,36
+532,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+225,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+724,63,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Partial response,16.0,Occipital lobe,30
+787,53,Male,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,24
+1718,54,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Partial response,18.0,Occipital lobe,30
+1008,47,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,44
+410,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+326,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1766,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+300,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1263,57,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,36
+1946,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+26,46,Male,Glioblastoma,IV,Frontal lobe,Surgery,Partial response,20.0,Temporal lobe,24
+1859,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+715,61,Male,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,48
+1010,50,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,22.0,Parietal lobe,32
+194,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+441,48,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+574,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+947,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+998,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+504,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+606,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,20.0,Parietal lobe,42
+1717,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,42
+1164,45,Female,Meningioma,I,Temporal lobe,Chemotherapy,Partial response,20.0,Temporal lobe,44
+1787,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+847,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+4,50,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation therapy,Complete response,,,12
+1287,51,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,36
+1223,52,Female,Meningioma,I,Occipital lobe,Radiation,Complete response,,,38
+468,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+322,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+6,45,Male,Glioblastoma,IV,Frontal lobe,Surgery,Partial response,10.0,Temporal lobe,18
+223,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1375,49,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Stable disease,16.0,Frontal lobe,28
+548,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+229,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+40,53,Male,Astrocytoma,III,Frontal lobe,Surgery,Stable disease,20.0,Frontal lobe,42
+543,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+243,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+899,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1134,64,Male,Meningioma,I,Parietal lobe,Chemotherapy,Stable disease,18.0,Parietal lobe,32
+1449,56,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1869,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+843,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1419,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,14.0,Temporal lobe,38
+1654,58,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,42
+1970,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+662,46,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,42
+1211,60,Female,Astrocytoma,III,Occipital lobe,Radiation,Stable disease,,,38
+315,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+692,51,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Stable disease,20.0,Frontal lobe,42
+1504,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+425,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+595,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1964,50,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,22.0,Parietal lobe,32
+623,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1171,59,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Stable disease,,,38
+1044,45,Female,Meningioma,I,Temporal lobe,Chemotherapy,Partial response,20.0,Temporal lobe,44
+228,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,22.0,Temporal lobe,36
+1118,63,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,44
+1332,65,Male,Astrocytoma,II,Occipital lobe,Chemotherapy,Stable disease,14.0,Occipital lobe,44
+1316,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,12.0,Occipital lobe,28
+67,58,Female,Astrocytoma,II,Parietal lobe,Surgery,Partial response,22.0,Parietal lobe,42
+25,72,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,10.0,Temporal lobe,18
+145,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+537,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+812,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1467,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+86,47,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,22.0,Temporal lobe,36
+1661,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Partial response,20.0,Occipital lobe,48
+1646,51,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Stable disease,20.0,Frontal lobe,42
+1805,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1818,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1577,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1145,54,Female,Meningioma,I,Frontal lobe,Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+363,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1612,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1866,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1027,48,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Partial response,18.0,Occipital lobe,44
+1031,50,Male,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,14.0,Occipital lobe,44
+1304,49,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,44
+1356,64,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,14.0,Temporal lobe,32
+1731,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Partial response,12.0,Temporal lobe,36
+666,48,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,42
+365,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+78,63,Male,Meningioma,I,Temporal lobe,Surgery,Complete response,,,60
+28,59,Male,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Progressive disease,8.0,Occipital lobe,12
+1437,63,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,14.0,Temporal lobe,32
+526,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1835,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+56,55,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+639,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+303,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+719,55,Male,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,20.0,Occipital lobe,42
+625,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+8,60,Male,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Frontal lobe,22
+804,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1050,50,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,22.0,Parietal lobe,32
+337,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+48,46,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Complete response,,,60
+1764,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+107,53,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,60
+350,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1080,57,Male,Glioblastoma,IV,Parietal lobe,Chemotherapy,Complete response,,,38
+239,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+214,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1776,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1139,58,Male,Glioblastoma,IV,Occipital lobe,Chemotherapy,Complete response,,,38
+794,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,42
+1587,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1583,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1672,48,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,36
+524,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+233,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+645,58,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,36
+1508,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+534,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1942,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+604,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Partial response,16.0,Occipital lobe,30
+1330,56,Male,Meningioma,I,Parietal lobe,Radiation,Stable disease,20.0,Parietal lobe,32
+1075,61,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Stable disease,20.0,Frontal lobe,28
+1305,56,Female,Astrocytoma,III,Frontal lobe,Radiation,Stable disease,22.0,Frontal lobe,28
+61,46,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,8.0,Occipital lobe,14
+1264,53,Male,Astrocytoma,III,Parietal lobe,Surgery + Chemotherapy,Stable disease,18.0,Parietal lobe,32
+93,53,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,48
+667,55,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Stable disease,14.0,Frontal lobe,24
+281,65,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1114,46,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Partial response,18.0,Temporal lobe,44
+360,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1129,62,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Frontal lobe,26
+1170,50,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,22.0,Parietal lobe,32
+848,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1522,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+111,47,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,8.0,Occipital lobe,14
+43,44,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Partial response,16.0,Temporal lobe,24
+126,68,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,12.0,Frontal lobe,18
+205,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+53,54,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,36
+546,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+69,61,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,60
+1741,53,Male,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,24
+1548,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+184,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+138,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+900,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+797,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+133,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+81,51,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1987,58,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+1541,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+542,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1669,61,Male,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,48
+984,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+166,54,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+249,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+447,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1515,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+859,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1212,59,Male,Meningioma,I,Temporal lobe,Chemotherapy,Progressive disease,14.0,Temporal lobe,44
+98,58,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1974,47,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,44
+738,66,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Progressive disease,20.0,Parietal lobe,42
+1256,63,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,14.0,Temporal lobe,32
+103,59,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,12.0,Parietal lobe,24
+435,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+75,52,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,72
+1792,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1235,63,Female,Meningioma,I,Frontal lobe,Chemotherapy,Stable disease,20.0,Frontal lobe,28
+919,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1712,50,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,18.0,Parietal lobe,36
+1671,59,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Stable disease,18.0,Parietal lobe,30
+1621,55,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Stable disease,14.0,Frontal lobe,24
+763,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,42
+990,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+389,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+236,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1507,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+268,46,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1188,65,Male,Meningioma,I,Temporal lobe,Chemotherapy,Stable disease,20.0,Temporal lobe,28
+118,46,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1607,51,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,20.0,Temporal lobe,36
+674,58,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+250,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1453,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,18.0,Parietal lobe,44
+1995,64,Male,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,14.0,Frontal lobe,26
+95,49,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+34,48,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,14.0,Occipital lobe,30
+1464,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1668,46,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Partial response,16.0,Temporal lobe,42
+449,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+717,59,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Stable disease,18.0,Parietal lobe,30
+1810,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1518,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1,45,Male,Glioblastoma,IV,Frontal lobe,Surgery,Partial response,10.0,Temporal lobe,18
+1376,50,Female,Astrocytoma,II,Occipital lobe,Chemotherapy,Progressive disease,20.0,Occipital lobe,32
+1102,56,Female,Glioblastoma,IV,Parietal lobe,Chemotherapy,Progressive disease,12.0,Parietal lobe,32
+1109,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Progressive disease,12.0,Frontal lobe,32
+1227,53,Female,Astrocytoma,II,Occipital lobe,Chemotherapy,Partial response,18.0,Occipital lobe,44
+83,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1289,66,Female,Meningioma,I,Temporal lobe,Radiation,Progressive disease,16.0,Temporal lobe,44
+677,54,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,48
+1921,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1047,60,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+771,53,Male,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,24
+1947,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1281,58,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Temporal lobe,36
+1581,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1489,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+405,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+1728,61,Female,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,42
+1299,54,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,36
+1341,55,Female,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Partial response,18.0,Frontal lobe,28
+105,65,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Partial response,18.0,Occipital lobe,36
+689,48,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,12.0,Temporal lobe,30
+1306,63,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,14.0,Temporal lobe,32
+827,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+63,69,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,48
+853,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1354,51,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,44
+224,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+146,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1089,62,Female,Meningioma,I,Frontal lobe,Radiation,Progressive disease,20.0,Frontal lobe,26
+374,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1421,60,Male,Meningioma,I,Parietal lobe,Radiation,Progressive disease,12.0,Parietal lobe,28
+1143,61,Female,Meningioma,I,Occipital lobe,Chemotherapy,Complete response,,,38
+1827,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+1495,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1602,54,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,12.0,Occipital lobe,18
+1271,54,Female,Meningioma,I,Frontal lobe,Chemotherapy,Complete response,,,38
+10,65,Male,Astrocytoma,II,Frontal lobe,Surgery + Radiation,Partial response,24.0,Frontal lobe,48
+450,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+709,56,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,14.0,Frontal lobe,30
+256,56,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+883,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+390,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+909,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+925,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1704,48,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Partial response,16.0,Parietal lobe,30
+1233,59,Female,Glioblastoma,IV,Parietal lobe,Radiation,Complete response,,,38
+461,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1270,50,Male,Astrocytoma,III,Occipital lobe,Radiation,Progressive disease,16.0,Occipital lobe,28
+1760,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1169,62,Female,Meningioma,I,Frontal lobe,Chemotherapy,Progressive disease,20.0,Frontal lobe,26
+959,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+502,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+740,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Partial response,14.0,Occipital lobe,24
+1850,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+869,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+732,54,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Complete response,,,36
+540,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1202,55,Male,Meningioma,I,Parietal lobe,Chemotherapy,Progressive disease,18.0,Parietal lobe,32
+698,65,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+1393,63,Male,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,18.0,Occipital lobe,44
+1377,61,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,38
+1146,57,Male,Glioblastoma,IV,Parietal lobe,Radiation,Complete response,,,38
+1032,55,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,16.0,Frontal lobe,28
+373,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+668,60,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,42
+1526,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+358,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+968,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+784,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Stable disease,18.0,Occipital lobe,30
+736,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Stable disease,16.0,Occipital lobe,42
+1036,53,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,32
+971,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1525,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1487,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1524,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1491,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1643,48,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,12.0,Temporal lobe,30
+1253,53,Female,Glioblastoma,IV,Parietal lobe,Chemotherapy,Complete response,,,38
+1694,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Partial response,14.0,Occipital lobe,24
+1750,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,14.0,Occipital lobe,30
+1237,55,Female,Meningioma,I,Occipital lobe,Chemotherapy,Complete response,,,38
+886,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+80,58,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,14.0,Frontal lobe,30
+1173,54,Female,Glioblastoma,IV,Frontal lobe,Chemotherapy,Complete response,16.0,Frontal lobe,28
+815,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+1286,59,Male,Meningioma,I,Occipital lobe,Radiation,Stable disease,20.0,Occipital lobe,32
+672,65,Female,Astrocytoma,II,Frontal lobe,Surgery + Radiation,Complete response,,,48
+1532,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+58,57,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,24
+134,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1141,63,Male,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,20.0,Frontal lobe,28
+934,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+1685,61,Male,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,20.0,Parietal lobe,24
+824,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1215,56,Female,Astrocytoma,II,Occipital lobe,Chemotherapy,Progressive disease,20.0,Occipital lobe,38
+505,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+1775,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+348,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+387,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1025,54,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+895,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+829,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+1893,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+476,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1471,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1448,62,Female,Astrocytoma,II,Frontal lobe,Chemotherapy,Stable disease,16.0,Frontal lobe,32
+1582,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+653,51,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,20.0,Temporal lobe,36
+173,55,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+1150,59,Female,Meningioma,I,Parietal lobe,Radiation,Complete response,,,38
+39,47,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,60
+714,46,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Partial response,16.0,Temporal lobe,42
+91,69,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+1937,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1206,45,Male,Glioblastoma,IV,Parietal lobe,Radiation,Progressive disease,14.0,Parietal lobe,32
+876,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1352,60,Male,Astrocytoma,II,Occipital lobe,Chemotherapy,Stable disease,20.0,Occipital lobe,32
+1890,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1094,64,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Stable disease,18.0,Parietal lobe,32
+1156,53,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,32
+1782,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1959,64,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,22.0,Frontal lobe,28
+500,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+339,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1189,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,32
+29,51,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1218,49,Male,Astrocytoma,II,Parietal lobe,Chemotherapy,Progressive disease,16.0,Parietal lobe,32
+1400,64,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Partial response,20.0,Temporal lobe,32
+1821,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+946,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+170,51,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,36
+1405,63,Male,Astrocytoma,II,Occipital lobe,Chemotherapy,Stable disease,22.0,Occipital lobe,38
+1198,63,Male,Astrocytoma,III,Temporal lobe,Surgery,Stable disease,14.0,Temporal lobe,44
+1254,49,Male,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Partial response,16.0,Occipital lobe,44
+1614,53,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Occipital lobe,30
+913,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+492,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+954,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1098,55,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Progressive disease,16.0,Parietal lobe,32
+1033,58,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+588,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+751,55,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Frontal lobe,36
+658,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+235,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+733,59,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,18.0,Temporal lobe,30
+1989,61,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1633,48,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,16.0,Temporal lobe,30
+1157,56,Female,Meningioma,I,Occipital lobe,Chemotherapy,Complete response,,,38
+1470,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1425,59,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,14.0,Parietal lobe,38
+1628,58,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+935,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+1210,51,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,22.0,Parietal lobe,32
+1066,57,Male,Glioblastoma,IV,Parietal lobe,Surgery,Complete response,,,38
+109,50,Female,Glioblastoma,IV,Parietal lobe,Surgery,Partial response,16.0,Parietal lobe,30
+1543,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+569,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1168,47,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,44
+1175,57,Female,Astrocytoma,II,Occipital lobe,Chemotherapy,Progressive disease,20.0,Occipital lobe,38
+891,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+948,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1049,62,Female,Meningioma,I,Frontal lobe,Surgery,Progressive disease,20.0,Frontal lobe,26
+1353,55,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,38
+1778,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1447,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,12.0,Occipital lobe,28
+885,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1673,55,Male,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,20.0,Occipital lobe,42
+851,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+735,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,24
+718,48,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,36
+455,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+265,65,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+76,66,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,12.0,Frontal lobe,18
+1658,59,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Complete response,,,30
+445,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+396,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+177,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1043,57,Male,Glioblastoma,IV,Occipital lobe,Surgery,Complete response,,,38
+1736,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Partial response,16.0,Frontal lobe,42
+1402,55,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,44
+1381,52,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+596,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+62,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,20.0,Temporal lobe,42
+1297,63,Female,Astrocytoma,III,Temporal lobe,Surgery + Chemotherapy,Partial response,18.0,Temporal lobe,44
+873,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+1490,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1879,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+279,59,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+37,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,12
+1976,56,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,32
+663,61,Male,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,24
+1954,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1445,53,Male,Astrocytoma,III,Parietal lobe,Surgery + Chemotherapy,Stable disease,18.0,Parietal lobe,32
+978,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1572,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,42
+739,52,Male,Astrocytoma,II,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,30
+192,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+920,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+457,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+676,61,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Partial response,20.0,Frontal lobe,42
+761,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,36
+1808,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1603,59,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,24
+729,58,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,12.0,Temporal lobe,36
+413,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1099,58,Male,Glioblastoma,IV,Occipital lobe,Chemotherapy,Complete response,,,38
+826,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+1640,61,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+617,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+115,65,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+418,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1911,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+970,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+605,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1919,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+90,55,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+849,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1520,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1918,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+754,66,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+499,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1277,64,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,16.0,Temporal lobe,44
+1326,49,Male,Astrocytoma,III,Parietal lobe,Chemotherapy,Stable disease,14.0,Parietal lobe,32
+12,48,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Complete response,,,60
+397,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+285,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+1067,48,Female,Astrocytoma,II,Occipital lobe,Chemotherapy,Partial response,18.0,Occipital lobe,44
+1192,55,Female,Meningioma,I,Frontal lobe,Surgery,Progressive disease,16.0,Frontal lobe,28
+1745,54,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,18.0,Parietal lobe,24
+691,60,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,48
+1753,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,20.0,Parietal lobe,30
+1876,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+690,55,Female,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,36
+852,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+160,64,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,72
+896,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1576,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+258,58,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,24
+336,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1880,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1040,57,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,38
+516,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1349,54,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,36
+1016,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+769,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,36
+1747,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,36
+762,46,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Stable disease,14.0,Parietal lobe,24
+1247,56,Female,Glioblastoma,IV,Parietal lobe,Radiation,Complete response,,,38
+1204,52,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Partial response,20.0,Temporal lobe,44
+1468,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1984,59,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,38
+522,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+23,61,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,24
+357,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+1278,60,Male,Glioblastoma,IV,Occipital lobe,Chemotherapy,Complete response,,,38
+1313,57,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,36
+1683,58,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,12.0,Temporal lobe,36
+341,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+432,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+474,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+218,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+912,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1228,65,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Stable disease,20.0,Temporal lobe,28
+1597,65,Male,Astrocytoma,III,Parietal lobe,Surgery + Chemotherapy,Complete response,,,42
+1012,67,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,14.0,Temporal lobe,44
+1950,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+94,57,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,36
+1009,62,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Frontal lobe,26
+1071,50,Male,Astrocytoma,III,Occipital lobe,Surgery,Stable disease,14.0,Occipital lobe,44
+1093,54,Female,Glioblastoma,IV,Frontal lobe,Chemotherapy,Complete response,16.0,Frontal lobe,28
+1915,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1309,55,Female,Meningioma,I,Frontal lobe,Radiation,Progressive disease,20.0,Frontal lobe,28
+697,50,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,16.0,Temporal lobe,36
+1828,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+997,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+154,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,22.0,Temporal lobe,36
+1100,47,Female,Meningioma,I,Temporal lobe,Surgery,Partial response,18.0,Temporal lobe,44
+1719,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,36
+1998,45,Female,Meningioma,I,Temporal lobe,Chemotherapy,Partial response,20.0,Temporal lobe,44
+790,61,Female,Astrocytoma,II,Frontal lobe,Surgery + Chemotherapy,Progressive disease,14.0,Frontal lobe,42
+581,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+704,59,Male,Meningioma,I,Frontal lobe,Surgery + Radiation,Complete response,,,30
+1213,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,16.0,Frontal lobe,28
+1296,50,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1666,53,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Parietal lobe,30
+1261,64,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,22.0,Temporal lobe,38
+488,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+560,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1142,56,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Parietal lobe,32
+1120,57,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+802,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+513,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+634,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1922,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1788,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1546,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+1151,50,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,14.0,Occipital lobe,44
+791,54,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,18.0,Parietal lobe,24
+117,59,Female,Astrocytoma,II,Parietal lobe,Surgery,Partial response,22.0,Parietal lobe,42
+741,56,Male,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+1691,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+1082,49,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Progressive disease,18.0,Parietal lobe,32
+831,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+120,51,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,36
+657,56,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1908,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+636,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+370,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+269,62,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,60
+656,63,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Progressive disease,18.0,Occipital lobe,36
+936,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+823,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+867,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+47,63,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Partial response,10.0,Temporal lobe,12
+1374,56,Male,Meningioma,I,Occipital lobe,Radiation,Progressive disease,12.0,Occipital lobe,32
+1709,52,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Partial response,14.0,Frontal lobe,36
+992,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+877,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+774,61,Female,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,42
+1220,63,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,44
+2000,53,Female,Glioblastoma,IV,Parietal lobe,Chemotherapy + Radiation,Progressive disease,14.0,Parietal lobe,32
+5,65,Male,Astrocytoma,II,Frontal lobe,Surgery + Radiation therapy,Partial response,24.0,Frontal lobe,48
+1004,45,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,20.0,Temporal lobe,44
+1724,65,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,42
+264,48,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,10.0,Frontal lobe,18
+1570,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Occipital lobe,30
+1831,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+444,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1003,57,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1078,63,Male,Astrocytoma,III,Temporal lobe,Radiation,Stable disease,14.0,Temporal lobe,44
+838,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1791,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+305,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1366,57,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,12.0,Occipital lobe,28
+1558,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Partial response,16.0,Occipital lobe,30
+314,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+150,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1149,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,32
+1214,67,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,18.0,Parietal lobe,32
+575,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+51,66,Female,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Complete response,,,72
+1553,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+727,65,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,42
+834,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1378,58,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,44
+1116,53,Female,Glioblastoma,IV,Parietal lobe,Surgery,Progressive disease,12.0,Parietal lobe,32
+1167,60,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+471,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+972,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+654,66,Female,Astrocytoma,II,Frontal lobe,Surgery + Radiation,Partial response,12.0,Frontal lobe,24
+400,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+512,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+321,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+20,68,Male,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,9.0,Occipital lobe,14
+685,46,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,20.0,Temporal lobe,48
+36,62,Male,Astrocytoma,III,Parietal lobe,Surgery,Progressive disease,10.0,Parietal lobe,18
+903,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1779,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+828,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1854,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+408,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+921,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+538,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+759,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1905,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+1063,61,Female,Meningioma,I,Occipital lobe,Chemotherapy,Complete response,,,38
+1200,57,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+246,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1417,62,Male,Astrocytoma,III,Parietal lobe,Chemotherapy,Stable disease,18.0,Parietal lobe,38
+1128,47,Male,Astrocytoma,II,Temporal lobe,Chemotherapy,Stable disease,18.0,Temporal lobe,44
+785,50,Male,Glioblastoma,III,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1743,46,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+490,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+155,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+962,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+854,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1312,48,Male,Meningioma,I,Occipital lobe,Chemotherapy,Progressive disease,14.0,Occipital lobe,44
+626,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+686,61,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1562,54,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+570,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1909,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+18,47,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+128,54,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1347,63,Female,Astrocytoma,III,Temporal lobe,Surgery + Chemotherapy,Partial response,18.0,Temporal lobe,44
+1280,56,Male,Meningioma,I,Parietal lobe,Radiation,Stable disease,20.0,Parietal lobe,32
+1969,57,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,20.0,Occipital lobe,38
+928,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+981,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1965,59,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,38
+191,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1140,47,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,44
+993,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1956,49,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,18.0,Parietal lobe,32
+1657,54,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Stable disease,12.0,Occipital lobe,24
+607,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Stable disease,14.0,Frontal lobe,30
+181,65,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+302,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+497,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1721,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,24
+1710,63,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Stable disease,16.0,Occipital lobe,42
+1888,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+1992,63,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,44
+518,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1985,50,Male,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,14.0,Occipital lobe,44
+1070,59,Female,Meningioma,I,Parietal lobe,Chemotherapy,Complete response,,,38
+477,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+158,58,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,24
+1244,53,Male,Meningioma,I,Parietal lobe,Chemotherapy,Complete response,,,38
+1196,53,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,32
+17,63,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Partial response,6.0,Frontal lobe,9
+1536,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1073,58,Male,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+1972,55,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,32
+547,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1540,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+659,65,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,24
+1626,65,Female,Astrocytoma,II,Frontal lobe,Surgery + Radiation,Complete response,,,48
+1020,47,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,44
+1663,56,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,14.0,Frontal lobe,30
+1505,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+960,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1882,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+284,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+798,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,42
+1627,53,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,16.0,Occipital lobe,36
+226,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+27,54,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,48
+1771,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+438,66,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1949,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1389,48,Male,Meningioma,I,Occipital lobe,Radiation,Progressive disease,16.0,Occipital lobe,28
+230,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,24
+38,65,Male,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Partial response,24.0,Occipital lobe,36
+750,48,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Partial response,16.0,Parietal lobe,30
+1046,53,Female,Glioblastoma,IV,Parietal lobe,Chemotherapy + Radiation,Progressive disease,14.0,Parietal lobe,32
+1399,53,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,28
+470,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1693,52,Male,Astrocytoma,II,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,30
+1968,64,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,18.0,Parietal lobe,32
+688,59,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Partial response,18.0,Frontal lobe,42
+1844,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+640,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+1713,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1219,58,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1159,48,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+1416,58,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,32
+1528,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1656,61,Male,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,18.0,Parietal lobe,36
+1301,61,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,16.0,Frontal lobe,28
+1823,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+801,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1604,48,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Complete response,,,36
+161,47,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,8.0,Occipital lobe,14
+957,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1187,48,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Partial response,18.0,Occipital lobe,44
+822,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1682,53,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,30
+878,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+914,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+153,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1871,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1777,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+510,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1136,51,Male,Glioblastoma,IV,Temporal lobe,Chemotherapy,Complete response,,,36
+1251,48,Female,Meningioma,I,Frontal lobe,Surgery,Stable disease,14.0,Frontal lobe,28
+1684,46,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,42
+104,47,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1446,49,Female,Meningioma,I,Temporal lobe,Radiation,Progressive disease,20.0,Temporal lobe,44
+1444,57,Female,Glioblastoma,IV,Frontal lobe,Surgery + Radiation,Complete response,,,36
+587,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1769,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+1144,49,Male,Astrocytoma,II,Temporal lobe,Surgery,Stable disease,14.0,Temporal lobe,44
+54,60,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Stable disease,24.0,Parietal lobe,48
+152,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+404,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1943,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+208,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1895,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1123,57,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1891,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+9,50,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,12
+1015,57,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,20.0,Occipital lobe,38
+1907,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1061,63,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Stable disease,20.0,Frontal lobe,28
+453,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+254,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,24
+1328,60,Male,Glioblastoma,IV,Occipital lobe,Chemotherapy,Complete response,,,38
+897,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1734,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Complete response,,,30
+881,65,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1596,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,24
+1889,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+624,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+346,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1703,59,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,12.0,Temporal lobe,24
+263,70,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,48
+1635,50,Male,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,24
+1322,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,18.0,Parietal lobe,44
+1439,52,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,18.0,Occipital lobe,44
+151,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+473,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+641,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,36
+1983,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,32
+1883,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+551,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1780,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+929,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+489,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1812,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+1172,67,Male,Meningioma,I,Temporal lobe,Chemotherapy,Progressive disease,14.0,Temporal lobe,44
+147,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+1705,55,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Frontal lobe,36
+1929,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+403,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+955,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1878,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+660,53,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Occipital lobe,30
+1373,63,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Stable disease,20.0,Temporal lobe,28
+464,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1350,59,Male,Astrocytoma,II,Parietal lobe,Chemotherapy,Stable disease,14.0,Parietal lobe,32
+187,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1148,65,Male,Meningioma,I,Temporal lobe,Chemotherapy,Stable disease,20.0,Temporal lobe,28
+1225,48,Female,Meningioma,I,Frontal lobe,Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+609,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Temporal lobe,42
+144,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+752,60,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Complete response,,,42
+1535,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+982,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+198,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1634,55,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Partial response,18.0,Frontal lobe,36
+884,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+280,47,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,22.0,Temporal lobe,36
+294,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1824,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+401,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+123,55,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+1208,53,Male,Astrocytoma,II,Temporal lobe,Chemotherapy,Stable disease,18.0,Temporal lobe,44
+203,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1463,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+836,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+247,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1440,55,Female,Meningioma,I,Frontal lobe,Radiation,Progressive disease,20.0,Frontal lobe,28
+1754,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1902,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1708,66,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1881,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1154,46,Female,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Partial response,18.0,Temporal lobe,44
+1662,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+1427,57,Male,Meningioma,I,Frontal lobe,Radiation,Progressive disease,12.0,Frontal lobe,28
+385,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1759,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+855,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1590,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+220,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+642,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,24
+2,55,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,36
+113,70,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,48
+699,53,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Complete response,,,48
+1916,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+952,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1649,63,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1637,53,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1886,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1411,54,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,18.0,Occipital lobe,28
+1410,59,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,44
+1534,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+1292,49,Male,Meningioma,I,Parietal lobe,Radiation,Stable disease,20.0,Parietal lobe,32
+1809,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+442,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1521,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1137,66,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,28
+1716,46,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Stable disease,14.0,Parietal lobe,24
+1257,61,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+1864,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Stable disease,16.0,Parietal lobe,30
+1632,59,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1696,50,Female,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,42
+1398,57,Female,Meningioma,I,Parietal lobe,Radiation,Complete response,,,36
+664,54,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Partial response,16.0,Occipital lobe,30
+1836,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1258,52,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,18.0,Occipital lobe,44
+1774,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1701,61,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,14.0,Frontal lobe,30
+318,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+649,59,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,24
+1435,49,Male,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,44
+1480,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+710,50,Male,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Stable disease,18.0,Occipital lobe,36
+1383,57,Male,Meningioma,I,Frontal lobe,Radiation,Progressive disease,20.0,Frontal lobe,28
+1283,48,Female,Meningioma,I,Frontal lobe,Surgery,Progressive disease,16.0,Frontal lobe,28
+973,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+628,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+633,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1307,61,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+1401,50,Male,Meningioma,I,Occipital lobe,Radiation,Stable disease,14.0,Occipital lobe,38
+1409,61,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Progressive disease,16.0,Temporal lobe,38
+1249,62,Female,Meningioma,I,Frontal lobe,Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1953,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+1255,58,Female,Astrocytoma,II,Frontal lobe,Radiation,Stable disease,20.0,Frontal lobe,28
+1497,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1372,58,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,18.0,Parietal lobe,44
+1530,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1664,50,Male,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Stable disease,18.0,Occipital lobe,36
+1355,58,Female,Astrocytoma,III,Frontal lobe,Radiation,Stable disease,22.0,Frontal lobe,28
+1926,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1901,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+1644,55,Female,Astrocytoma,III,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,36
+1849,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+796,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,14.0,Occipital lobe,30
+646,46,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,20.0,Frontal lobe,42
+1013,54,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,16.0,Frontal lobe,28
+1840,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+557,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+682,65,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Stable disease,18.0,Occipital lobe,30
+578,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+1110,59,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+1267,62,Female,Astrocytoma,II,Frontal lobe,Chemotherapy,Stable disease,16.0,Frontal lobe,32
+1723,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,36
+1184,49,Male,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,44
+525,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1060,47,Female,Meningioma,I,Temporal lobe,Chemotherapy,Partial response,18.0,Temporal lobe,44
+541,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1195,61,Male,Meningioma,I,Frontal lobe,Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1679,56,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,36
+749,59,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,12.0,Temporal lobe,24
+1852,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+1431,54,Male,Astrocytoma,II,Frontal lobe,Radiation,Stable disease,14.0,Frontal lobe,28
+485,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1758,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+96,63,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1021,63,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,28
+564,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+1265,49,Female,Meningioma,I,Temporal lobe,Radiation,Progressive disease,20.0,Temporal lobe,44
+743,65,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,24
+864,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1599,58,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,14.0,Temporal lobe,36
+1715,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,20.0,Temporal lobe,36
+1485,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+892,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1578,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1039,48,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+207,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+393,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+795,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,12.0,Parietal lobe,24
+871,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+398,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+767,63,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,24
+1842,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1242,57,Male,Meningioma,I,Temporal lobe,Chemotherapy,Stable disease,20.0,Temporal lobe,28
+1029,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,12.0,Frontal lobe,32
+1793,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+643,65,Male,Astrocytoma,III,Parietal lobe,Surgery + Chemotherapy,Complete response,,,42
+1892,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+613,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,24
+1763,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+961,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,24
+1571,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+726,50,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,14.0,Frontal lobe,24
+684,58,Female,Astrocytoma,II,Frontal lobe,Surgery + Chemotherapy,Partial response,16.0,Frontal lobe,42
+99,51,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+805,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+1752,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,42
+1598,53,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Partial response,16.0,Occipital lobe,30
+407,55,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+503,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1072,55,Female,Meningioma,I,Frontal lobe,Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+1057,66,Male,Meningioma,I,Frontal lobe,Chemotherapy,Stable disease,12.0,Frontal lobe,28
+930,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+780,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Complete response,,,30
+201,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+135,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,18.0,Parietal lobe,42
+1052,67,Male,Meningioma,I,Temporal lobe,Radiation,Progressive disease,14.0,Temporal lobe,44
+41,69,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Complete response,,,24
+1018,55,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,32
+231,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+1514,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+1797,51,Female,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,Stable disease,,,36
+379,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+289,51,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+419,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1699,58,Male,Astrocytoma,II,Temporal lobe,Surgery + Chemotherapy,Partial response,18.0,Temporal lobe,36
+392,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+593,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1523,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1163,57,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,38
+1087,60,Female,Meningioma,I,Occipital lobe,Chemotherapy,Complete response,,,38
+1496,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+648,54,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,12.0,Occipital lobe,18
+1153,58,Male,Glioblastoma,IV,Parietal lobe,Chemotherapy,Complete response,,,38
+1368,55,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,38
+521,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+1863,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+65,65,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,24
+1837,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+15,58,Female,Meningioma,I,Temporal lobe,Surgery,Complete response,,,42
+1181,63,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1065,54,Female,Meningioma,I,Frontal lobe,Radiation,Progressive disease,16.0,Frontal lobe,28
+493,46,Female,Astrocytoma,II,Parietal lobe,Surgery,Progressive disease,14.0,Parietal lobe,24
+380,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+188,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+764,54,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Partial response,18.0,Occipital lobe,30
+217,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+792,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Stable disease,16.0,Occipital lobe,30
+1077,56,Female,Meningioma,I,Occipital lobe,Surgery,Complete response,,,38
+879,56,Female,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,18.0,Occipital lobe,42
+338,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1773,58,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,36
+720,60,Female,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Partial response,12.0,Temporal lobe,24
+1749,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,12.0,Parietal lobe,24
+296,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+1726,58,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Complete response,,,30
+1017,66,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,28
+1276,49,Male,Astrocytoma,III,Parietal lobe,Chemotherapy,Stable disease,14.0,Parietal lobe,32
+1751,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1486,71,Female,Astrocytoma,II,Parietal lobe,Surgery + Chemotherapy,Partial response,20.0,Parietal lobe,42
+456,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1997,57,Male,Glioblastoma,IV,Occipital lobe,Surgery,Complete response,,,38
+816,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1887,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+270,51,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,36
+996,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+202,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+162,52,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,20.0,Temporal lobe,42
+1580,50,Female,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,36
+730,46,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,42
+402,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+703,54,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Stable disease,12.0,Occipital lobe,24
+1501,59,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1846,66,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Progressive disease,12.0,Temporal lobe,42
+1796,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+1130,50,Male,Glioblastoma,IV,Parietal lobe,Radiation,Partial response,22.0,Parietal lobe,32
+566,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+1414,65,Female,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,26.0,Temporal lobe,44
+1022,56,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,32
+1026,57,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1412,52,Female,Meningioma,I,Frontal lobe,Radiation,Progressive disease,20.0,Frontal lobe,32
+1896,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1586,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1105,54,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+206,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,24
+35,57,Female,Meningioma,I,Temporal lobe,Surgery + Chemotherapy,Complete response,,,72
+776,59,Female,Meningioma,I,Occipital lobe,Surgery + Chemotherapy,Complete response,,,30
+509,49,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1452,54,Female,Meningioma,I,Frontal lobe,Chemotherapy,Complete response,,,38
+1479,55,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,48
+1971,66,Male,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,28
+1391,54,Male,Astrocytoma,III,Frontal lobe,Chemotherapy,Stable disease,14.0,Frontal lobe,38
+92,48,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,12.0,Frontal lobe,30
+1364,54,Male,Astrocytoma,III,Parietal lobe,Surgery + Chemotherapy,Stable disease,18.0,Parietal lobe,32
+898,53,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,16.0,Parietal lobe,30
+565,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+1370,51,Male,Astrocytoma,III,Occipital lobe,Radiation,Progressive disease,16.0,Occipital lobe,28
+777,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Partial response,12.0,Temporal lobe,36
+242,65,Male,Astrocytoma,III,Frontal lobe,Surgery + Radiation,Progressive disease,18.0,Frontal lobe,42
+14,42,Male,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Progressive disease,12.0,Occipital lobe,20
+316,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+601,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,18.0,Temporal lobe,36
+388,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1298,56,Male,Meningioma,I,Occipital lobe,Radiation,Stable disease,20.0,Occipital lobe,32
+167,59,Female,Astrocytoma,II,Parietal lobe,Surgery,Partial response,22.0,Parietal lobe,42
+841,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+21,53,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Complete response,,,72
+647,61,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,48
+1843,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+1509,56,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1155,61,Male,Meningioma,I,Frontal lobe,Chemotherapy,Stable disease,20.0,Frontal lobe,28
+1529,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+832,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+1268,56,Male,Meningioma,I,Parietal lobe,Surgery + Radiation,Complete response,,,38
+1591,51,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Partial response,16.0,Temporal lobe,24
+1900,60,Male,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Partial response,20.0,Parietal lobe,30
+563,57,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Stable disease,14.0,Temporal lobe,30
+1952,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+687,54,Male,Astrocytoma,II,Occipital lobe,Surgery + Chemotherapy,Progressive disease,14.0,Occipital lobe,24
+958,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+190,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+1807,61,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,24
+976,50,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Complete response,,,36
+700,58,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,42
+1500,54,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,36
+1706,60,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Complete response,,,42
+511,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1083,57,Male,Glioblastoma,IV,Occipital lobe,Chemotherapy,Complete response,,,38
+475,60,Female,Astrocytoma,III,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+1585,61,Male,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,30
+857,55,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Progressive disease,18.0,Frontal lobe,24
+748,54,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Complete response,,,36
+253,66,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+22,49,Male,Astrocytoma,III,Temporal lobe,Surgery,Partial response,16.0,Temporal lobe,30
+1338,54,Male,Astrocytoma,II,Parietal lobe,Chemotherapy,Stable disease,14.0,Parietal lobe,32
+460,60,Male,Astrocytoma,III,Temporal lobe,Surgery + Radiation,Progressive disease,18.0,Temporal lobe,42
+1185,54,Female,Meningioma,I,Frontal lobe,Surgery + Radiation,Progressive disease,16.0,Frontal lobe,28
+277,48,Female,Glioblastoma,IV,Parietal lobe,Surgery + Chemotherapy,Partial response,16.0,Parietal lobe,24
+956,46,Female,Meningioma,I,Temporal lobe,Surgery + Radiation,Partial response,18.0,Temporal lobe,42
+1216,54,Male,Glioblastoma,IV,Temporal lobe,Surgery + Chemotherapy,Complete response,,,36
+386,67,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,42
+806,54,Female,Glioblastoma,IV,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,30
+1438,61,Female,Meningioma,I,Parietal lobe,Surgery + Chemotherapy,Complete response,,,38
+1516,52,Female,Astrocytoma,II,Occipital lobe,Surgery + Radiation,Progressive disease,12.0,Occipital lobe,18
+344,58,Male,Meningioma,I,Temporal lobe,Surgery + Radiation,Complete response,,,48
+770,65,Female,Meningioma,I,Frontal lobe,Surgery + Chemotherapy,Stable disease,20.0,Frontal lobe,42
+1333,48,Female,Meningioma,I,Frontal lobe,Surgery,Progressive disease,16.0,Frontal lobe,28
+1686,54,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Complete response,,,36
+131,65,Female,Meningioma,I,Parietal lobe,Surgery,Complete response,,,42
+1688,48,Female,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Partial response,14.0,Parietal lobe,36
+872,48,Male,Astrocytoma,II,Temporal lobe,Surgery + Radiation,Stable disease,16.0,Temporal lobe,42
+1124,45,Female,Meningioma,I,Temporal lobe,Radiation,Partial response,20.0,Temporal lobe,44
+1397,55,Male,Astrocytoma,III,Occipital lobe,Chemotherapy,Stable disease,14.0,Occipital lobe,44
+88,50,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,16.0,Frontal lobe,24
+1483,52,Male,Astrocytoma,III,Frontal lobe,Surgery + Chemotherapy,Stable disease,18.0,Frontal lobe,36
+331,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+1239,64,Female,Meningioma,I,Frontal lobe,Chemotherapy,Progressive disease,16.0,Frontal lobe,28
+467,53,Female,Glioblastoma,IV,Occipital lobe,Surgery + Chemotherapy,Partial response,20.0,Occipital lobe,36
+122,49,Male,Meningioma,I,Frontal lobe,Surgery,Complete response,,,48
+1639,46,Male,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,Stable disease,20.0,Temporal lobe,48
+1045,62,Male,Astrocytoma,III,Frontal lobe,Radiation,Stable disease,22.0,Frontal lobe,28
+1725,53,Male,Astrocytoma,II,Parietal lobe,Surgery + Radiation,Progressive disease,12.0,Parietal lobe,24
+1096,51,Male,Glioblastoma,IV,Temporal lobe,Chemotherapy,Complete response,,,36
+1131,59,Female,Astrocytoma,III,Occipital lobe,Surgery,Stable disease,,,38
+1295,58,Female,Meningioma,I,Frontal lobe,Surgery,Progressive disease,16.0,Frontal lobe,28
+861,52,Female,Glioblastoma,IV,Frontal lobe,Surgery + Chemotherapy,Complete response,14.0,Frontal lobe,24
+1460,63,Female,Glioblastoma,IV,Occipital lobe,Surgery + Radiation,Progressive disease,14.0,Occipital lobe,30
+1127,60,Female,Meningioma,I,Occipital lobe,Surgery + Radiation,Complete response,,,38
