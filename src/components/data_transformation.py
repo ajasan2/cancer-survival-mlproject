@@ -12,7 +12,6 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from src.exception import CustomException
 from src.logger import logging
 from src.utils import save_object
-from scipy.sparse import hstack
 
 
 @dataclass
@@ -90,13 +89,13 @@ class DataTransformation:
             input_feature_train_arr = preprocessing_obj.fit_transform(input_feature_train_df)
             input_feature_test_arr = preprocessing_obj.transform(input_feature_test_df)
 
-            # Ensure target_feature are NumPy arrays
+            # Ensure target_feature are NumPy arrays with proper dimensions
             target_feature_train_arr = np.array(target_feature_train_df).reshape(-1, 1)
             target_feature_test_arr = np.array(target_feature_test_df).reshape(-1, 1)
 
-            # Concatenate sparse matrices
-            train_arr = hstack([input_feature_train_arr, target_feature_train_arr])
-            test_arr = hstack([input_feature_test_arr, target_feature_test_arr])
+            # Concatenate dense arrays
+            train_arr = np.hstack([input_feature_train_arr, target_feature_train_arr])
+            test_arr = np.hstack([input_feature_test_arr, target_feature_test_arr])
 
             save_object(
                 file_path = self.data_transformation_config.preprocessor_obj_file_path,
