@@ -35,8 +35,8 @@ class ModelTrainer:
             )
 
             models = {
-                'Random Forest': RandomForestRegressor(),
                 'Decision Tree': DecisionTreeRegressor(),
+                'Random Forest': RandomForestRegressor(),
                 'Gradient Boosting': GradientBoostingRegressor(),
                 'Linear Regression': LinearRegression(),
                 'K-Nearest Neighbors': KNeighborsRegressor(),
@@ -44,7 +44,38 @@ class ModelTrainer:
                 'AdaBoostRegressor': AdaBoostRegressor(),
             }
 
-            model_report:dict = evaluate_models(X_train, y_train, X_test, y_test, models)
+            params = {
+                'Decision Tree': {
+                    # 'criterion':['squared_error', 'friedman_mse', 'poisson'],
+                    'max_features':[None, 'log2'],
+                },
+                'Random Forest':{
+                    # 'criterion':['squared_error', 'friedman_mse', 'poisson'],
+                    'n_estimators': [16, 32, 64, 128, 256]
+                },
+                'Gradient Boosting':{
+                    'loss':['squared_error', 'huber', 'quantile'],
+                    'learning_rate':[.1, .01, .05, .001],
+                    'criterion':['squared_error', 'friedman_mse'],
+                    # 'subsample':[0.6, 0.75, 0.9],
+                    # 'max_features':['auto','sqrt','log2'],
+                    'n_estimators': [16, 32, 64, 128, 256]
+                },
+                'Linear Regression':{},
+                'K-Nearest Neighbors':{},
+                'XGBRegressor':{
+                    'learning_rate':[.1, .01, .05, .001],
+                    'n_estimators': [16, 32, 64, 128, 256]
+                },
+                'AdaBoostRegressor':{
+                    'learning_rate':[.1, .01, 0.5, .001],
+                    'loss':['linear','square','exponential'],
+                    'n_estimators': [16, 32, 64, 128, 256]
+                }
+                
+            }
+
+            model_report:dict = evaluate_models(X_train, y_train, X_test, y_test, models, params)
 
             best_model_name = max(model_report, key=model_report.get)
             best_model_score = model_report[best_model_name]
