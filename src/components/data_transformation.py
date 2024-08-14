@@ -42,14 +42,12 @@ class DataTransformation:
 
             num_pipeline = Pipeline(
                 steps = [
-                    ('imputer', SimpleImputer(strategy='constant', fill_value=0)),
                     ('scaler', StandardScaler())
                 ]
             )
 
             cat_pipeline = Pipeline(
                 steps = [
-                    ('imputer', SimpleImputer(strategy='constant', fill_value='None')),
                     ('one_hot_encoder', OneHotEncoder()),
                     ('scaler', StandardScaler(with_mean=False))
                 ]
@@ -79,6 +77,9 @@ class DataTransformation:
 
             preprocessing_obj = self.get_data_transformer_object()
             logging.info('Obtained preprocessing object')
+
+            train_df = train_df.dropna(subset=['Time to Recurrence (months)'])
+            test_df = test_df.dropna(subset=['Time to Recurrence (months)'])
 
             target_column_name = 'Survival Time (months)'
             input_feature_train_df = train_df.drop(columns=[target_column_name], axis=1)
