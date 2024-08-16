@@ -1,0 +1,156 @@
+<html>
+<body>
+    <div class="login">
+       <h1>Cancer Prognosis Time Estimator</h1>
+   
+       <form action="/" method="post">
+        <h2>
+            <legend>Patient Survival Time Prediction</legend>
+        </h2>
+        <div class="mb-3">
+            <label class="form-label">Age</label>
+            <input class="form-control" type="number" name="age"
+                min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select class="form-control" name="gender" required>
+                <option class="placeholder" selected disabled value=""></option>
+                <option value="Male">
+                    Male
+                </option>
+                <option value="Female">
+                    Female
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Tumor Type</label>
+            <select class="form-control" name="tumor_type" required>
+                <option class="placeholder" selected disabled value=""></option>
+                <option value="Astrocytoma">
+                    Astrocytoma
+                </option>
+                <option value="Glioblastoma">
+                    Glioblastoma
+                </option>
+                <option value="Meningioma">
+                    Meningioma
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Tumor Grade</label>
+            <select class="form-control" name="tumor_grade" required>
+                <option class="placeholder" selected disabled value=""></option>
+                <option value="I">
+                    I
+                </option>
+                <option value="II">
+                    II
+                </option>
+                <option value="III">
+                    III
+                </option>
+                <option value="IV">
+                    IV
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Tumor Location</label>
+            <select class="form-control" name="tumor_location" required>
+                <option class="placeholder" selected disabled value=""></option>
+                <option value="Frontal lobe">
+                    Frontal lobe
+                </option>
+                <option value="Parietal lobe">
+                    Parietal lobe
+                </option>
+                <option value="Temporal lobe">
+                    Temporal lobe
+                </option>
+                <option value="Occipital lobe">
+                    Occipital lobe
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Treatment</label>
+            <select class="form-control" name="treatment" required>
+                <option class="placeholder" selected disabled value=""></option>
+                <option value="Chemotherapy">
+                    Chemotherapy
+                </option>
+                <option value="Chemotherapy + Radiation">
+                    Chemotherapy + Radiation
+                </option>
+                <option value="Radiation">
+                    Radiation
+                </option>
+                <option value="Surgery Treatment">
+                    Surgery Treatment
+                </option>
+                <option value="Surgery + Chemotherapy">
+                    Surgery + Chemotherapy
+                </option>
+                <option value="Surgery + Radiation">
+                    Surgery + Radiation
+                </option>
+                <option value="Surgery + Radiation therapy">
+                    Surgery + Radiation therapy
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Treatment Outcome</label>
+            <select class="form-control" name="treatment_outcome" required>
+                <option class="placeholder" selected disabled value=""></option>
+                <option value="Complete response">
+                    Complete response
+                </option>
+                <option value="Partial response">
+                    Partial response
+                </option>
+                <option value="Progressive disease">
+                    Progressive disease
+                </option>
+                <option value="Stable disease">
+                    Stable disease
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Recurrence Site</label>
+            <select class="form-control" name="recurrence_site" required>
+                <option class="placeholder" selected disabled value=""></option>
+                <option value="Frontal lobe">
+                    Frontal lobe
+                </option>
+                <option value="Parietal lobe">
+                    Parietal lobe
+                </option>
+                <option value="Temporal lobe">
+                    Temporal lobe
+                </option>
+                <option value="Occipital lobe">
+                    Occipital lobe
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Time to Recurrence (months)</label>
+            <input class="form-control" type="number" name="recurrence_time"
+                min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Estimate prognosis" required />
+        </div>
+    </form>
+    {% if results is not none %}
+    <h2>
+        The predicted survival time is {{ "%.2f"|format(results|default(0.0)) }} months.
+    </h2>
+    {% endif %}
+</body>
+</html>
