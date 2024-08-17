@@ -11,7 +11,7 @@ def get_requirements(filename:str)->List[str]:
 
 
 setup(
-    name='mlproject',
+    name='cancer_survival_mlproject',
     author='ajasan2',
     version='0.0.1',
     packages=find_packages(),
