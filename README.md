@@ -1,4 +1,4 @@
-# [Survival Time Estimation Model for Cancer Treatments](http://18.223.3.107/)
+# Survival Time Estimation Model for Cancer Treatments
 
 This project is an end-to-end implementation of a machine learning model that predicts survival time for patients with brain cancer. The project covers all stages from data ingestion and transformation to model training, prediction, and deployment. The system is deployed using AWS ECR and EC2 services, Docker, and GitHub Actions for CI/CD.
 
